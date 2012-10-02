@@ -1,4 +1,3 @@
-
 (function(w) {
 
     var storage = w.localStorage;
@@ -57,6 +56,3 @@
         }
     }
 })(window);
-
-$.storage('name', 'kolyua'); //
-$.storage('name');
